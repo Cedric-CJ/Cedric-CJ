@@ -21,7 +21,7 @@ I’m currently improving my skills in **business informatics** while expanding 
 ![Cedric-CJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-CJ&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 How to Reach Me
-- [My LinkedIn](inkedin.com/in/cedric-arnhold-853a122a0)
+- [My LinkedIn](https://Linkedin.com/in/cedric-arnhold-853a122a0)
 - [My Site](https://cedric-cj.github.io/AboutMe)
 - [My Email](mailto:cedric.jon.arnhold+readme@gmail.com)
 
