@@ -16,9 +16,9 @@ I’m currently improving my skills in **business informatics** while expanding 
 
 ## ⚡ GitHub Stats
 
-![Cedric-CJ's Stats](https://github-readme-stats.vercel.app/api?username=Cedric-CJ&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Cedric-CJ&theme=radical&hide_border=true&border_radius=2.5&size=compact&show_emoji=true)
 
-![Cedric-CJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cedric-CJ&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=Cedric-CJ&theme=radical&hide_border=true&border_radius=2.5)
 
 ## 📫 How to Reach Me
 - [My LinkedIn](https://Linkedin.com/in/cedric-arnhold-853a122a0)
